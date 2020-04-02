@@ -2,10 +2,11 @@ package parser
 
 import (
 	"fmt"
-	"rainbow/ast"
-	"rainbow/lexer"
-	"rainbow/token"
 	"strconv"
+
+	"github.com/afishr/rainbow/ast"
+	"github.com/afishr/rainbow/lexer"
+	"github.com/afishr/rainbow/token"
 )
 
 const (

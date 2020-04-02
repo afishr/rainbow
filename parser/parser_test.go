@@ -2,9 +2,10 @@ package parser
 
 import (
 	"fmt"
-	"rainbow/ast"
-	"rainbow/lexer"
 	"testing"
+
+	"github.com/afishr/rainbow/ast"
+	"github.com/afishr/rainbow/lexer"
 )
 
 func TestVarStatements(t *testing.T) {

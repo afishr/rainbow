@@ -2,8 +2,9 @@ package ast
 
 import (
 	"bytes"
-	"rainbow/token"
 	"strings"
+
+	"github.com/afishr/rainbow/token"
 )
 
 type Node interface {

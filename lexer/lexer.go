@@ -1,6 +1,6 @@
 package lexer
 
-import "rainbow/token"
+import "github.com/afishr/rainbow/token"
 
 type Lexer struct {
 	input        string

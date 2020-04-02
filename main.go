@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"os"
 	"os/user"
-	"rainbow/repl"
+
+	"github.com/afishr/rainbow/repl"
 )
 
 func main() {

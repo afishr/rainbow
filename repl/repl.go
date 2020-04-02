@@ -4,8 +4,9 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"rainbow/lexer"
-	"rainbow/parser"
+
+	"github.com/afishr/rainbow/lexer"
+	"github.com/afishr/rainbow/parser"
 )
 
 const PROMPT = ">> "

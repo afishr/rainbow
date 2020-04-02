@@ -1,8 +1,9 @@
 package lexer
 
 import (
-	"rainbow/token"
 	"testing"
+
+	"github.com/afishr/rainbow/token"
 )
 
 func TestNextToken(t *testing.T) {
